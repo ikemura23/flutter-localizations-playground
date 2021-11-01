@@ -1,0 +1,10 @@
+# arbが置かれるディレクトリ
+arb-dir: lib/l10n
+# メッセージ対応のテンプレート定義
+template-arb-file: app_en.arb
+# インポートするDartクラスのファイルの定義
+output-localization-file: app_localizations.dart
+
+# arb(ApplicationResourceBundle)ファイルは、json形式のFlutterで言語をリソースするためのファイル
+
+# l10n : localization（地域化）
