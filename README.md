@@ -1,6 +1,14 @@
-# flutter_localizations_playground
+# Flutter Localizations Playground
 
-A new Flutter project.
+Flutterの多言語対応のサンプルプロジェクト
+
+## 参考にした資料
+
+Internationalizing Flutter apps | Flutter 
+https://flutter.dev/docs/development/accessibility-and-localization/internationalization
+
+中級編6:多言語対応(Localization)｜Flutter実践入門 ～環境構築からAndroid/iOS/Webに広告を付けて同時にリリース!!～ 
+https://zenn.dev/kazutxt/books/flutter_practice_introduction/viewer/intermediate_localization#%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%AF%BE%E5%BF%9C
 
 ## Getting Started
 
